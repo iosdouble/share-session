@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36b7a359-9aa0-41d1-8525-070ac5d3bebb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_common/src/main/java/com/nh/share/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service1/src/main/java/com/nh/share/SpringSessionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service1/src/main/java/com/nh/share/config/SpringSessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service1/src/main/java/com/nh/share/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service2/src/main/java/com/nh/share/SpringSessionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service2/src/main/java/com/nh/share/config/SpringSessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service2/src/main/java/com/nh/share/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session_service2/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.3.9\repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hfCqIfbXBmL540dZeswW0Ak1U4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/session_service2/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nh.share.config" />
+      <recent name="com.nh.share" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitLib\share-session\session_service2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringSessionApp">
+    <configuration name="SpringSessionApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="session_service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nh.share.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nh.share.SpringSessionApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSessionApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="session_service1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nh.share.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nh.share.SpringSessionApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringSessionApp (1)" />
+        <item itemvalue="Spring Boot.SpringSessionApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b7a359-9aa0-41d1-8525-070ac5d3bebb" name="Default Changelist" comment="" />
+      <created>1600392948319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600392948319</updated>
+      <workItem from="1600392951067" duration="2332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600393374392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600393374392" />
+    <state x="553" y="117" key="CommitChangelistDialog2" timestamp="1600395486708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600395486708" />
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.0.center" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.1.center" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.1.left" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state width="1877" height="388" key="GridCell.Tab.1.right" timestamp="1600394232291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600394232291" />
+    <state x="334" y="224" key="new project wizard" timestamp="1600394458583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600394458583" />
+  </component>
+</project>
